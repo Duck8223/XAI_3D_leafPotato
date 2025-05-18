@@ -79,27 +79,35 @@
     - MobileNetV3 + Vision Transformer
     ![alt text](img/image-3.png)
     - MobileNetV3 + Vision Transformer + Anfis
-    ![alt text](image.png)
+    ![alt text](img/image.png)
 - Ma trận nhầm lẫn:
     - MobileNetV3:
-    ![alt text](img/image-12.png)
-    - Vision Transformer
+      ***
+      ![alt text](img/image-12.png)
+    - Vision Transformer:
+      ***
     ![alt text](img/image-8.png)
-    - MobileNetV3 + Vision Transformer
+    - MobileNetV3 + Vision Transformer:
+      ***
     ![alt text](img/image-4.png)
-    - MobileNetV3 + Vision Transformer + Anfis
+    - MobileNetV3 + Vision Transformer + Anfis:
+      ***
     ![alt text](img/image-1.png)
 - Kết quả kiểm thử:
     - MobileNetV3:
+      ***
     ![alt text](img/image-13.png)
     ![alt text](img/image-14.png)
-    - Vision Transformer
+    - Vision Transformer:
+      ***
     ![alt text](img/image-9.png)
     ![alt text](img/image-10.png)
-    - MobileNetV3 + Vision Transformer
+    - MobileNetV3 + Vision Transformer:
+      ***
     ![alt text](img/image-6.png)
     ![alt text](img/image-5.png)
-    - MobileNetV3 + Vision Transformer + Anfis
+    - MobileNetV3 + Vision Transformer + Anfis:
+      ***
     ![alt text](img/image-2.png)
 - Kết quả 3D hóa với zero123 và vfusion trong thư mục obj3d
     
