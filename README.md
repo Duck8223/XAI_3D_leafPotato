@@ -37,7 +37,7 @@
     - fz_fn_segment_fc
 ## Dữ liệu
 ### Mô tả
-- Bộ dữ liệu là các ảnh chụp lá khoai tây có ba nhãn (Early Blight, Late Blight, Healthy) tổng có khoảng 6296 ảnh, Bộ dữ liệu này được tổng hợp từ PlanDoc, PlantVillage, Potato Disease Leaf Dataset(PLD). PlantVillage,
+- Bộ dữ liệu là các ảnh chụp lá khoai tây có ba nhãn (Early Blight, Late Blight, Healthy) tổng có khoảng 6296 ảnh, Bộ dữ liệu này được tổng hợp từ PlanDoc, PlantVillage, Potato Disease Leaf Dataset(PLD).
 - URL của Bộ dữ liệu: [Collect_Leaf_Potato_Data](https://www.kaggle.com/datasets/hunhphcc/collect-leaf-potato-data)
 ### Chia dữ liệu
 - Bộ dữ liệu được chia sẵn :
